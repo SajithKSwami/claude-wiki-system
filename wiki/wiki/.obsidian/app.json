@@ -1,0 +1,15 @@
+{
+  "defaultViewMode": "preview",
+  "foldHeading": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "smartIndentList": true,
+  "spellcheck": false,
+  "tabSize": 2,
+  "useTab": false,
+  "vimMode": false,
+  "livePreview": true
+}

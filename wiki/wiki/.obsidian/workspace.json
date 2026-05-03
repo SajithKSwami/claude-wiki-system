@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "../raw/assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "concepts",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    ".git",
+    "node_modules"
+  ]
+}
